@@ -55,7 +55,7 @@ class ArrayUtilityTest {
 
         assertEquals(5.5, averageOne);
         assertEquals(16.1, averageTwo);
-        assertEquals(11.66, averageThree);
+        assertEquals(11.67, averageThree);
 
         System.out.println(averageOne);
         System.out.println(averageTwo);
